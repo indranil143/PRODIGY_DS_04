@@ -11,7 +11,7 @@ This project performs entity-level sentiment analysis on multi-lingual tweets, c
 
 # Approach
 - Preprocessing: Cleaned and tokenized text data.
-- Modeling: Trained models like Logistic Regression and SVM for sentiment classification.
+- Modeling: Trained models like Multinomial Naive Bayes for sentiment classification.
 - Evaluation: Metrics include accuracy, precision, recall, and F1-score.
 
 # Results
